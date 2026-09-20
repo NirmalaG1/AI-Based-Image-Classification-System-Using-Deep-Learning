@@ -90,47 +90,73 @@ Implement one pretrained CNN model using Keras Applications.
 Choose any one:
 
 VGG16
+
 ResNet50
+
 MobileNetV2
+
 EfficientNetB0
+
 InceptionV3
 
 Tasks:
 Load pretrained model
+
 Freeze base layers
+
 Add custom classifier
+
 Train on the dataset
+
 Compare performance with the custom CNN
 
 Evaluate using:
+
 Accuracy
+
 Loss
+
 Confusion Matrix
+
 Classification Report
 
 
 Task 4 – Prediction and Visualization
+
 Perform predictions on test images.
 
 Task:
+
 Predict unseen images
+
 Display actual vs predicted labels
+
 Visualize correctly classified images
+
 Visualize misclassified images
+
 Plot training and validation Accuracy
+
 Plot training and validation Loss
+
 
 Task 5 – Model Analysis and Documentation
 
 
 Task:
-Comparison 
-between CNN and Transfer Learning
+
+Comparison between CNN and Transfer Learning
+
 Model performance analysis
+
 Advantages and limitations of both approaches
+
 Challenges faced during implementation
+
 Real-world applications
+
 Future improvements
+
 
 
 
